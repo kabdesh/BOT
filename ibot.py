@@ -1,3 +1,4 @@
+#Этот бот, работающий со списком учеников
 import telebot
 import lesson3
 
